@@ -54,6 +54,5 @@ html,body{
   transform: rotate(0deg);
   background-size: 100% 126px;
   background-image: url(../img/second-hand.svg);
-  opacity: 0.5;
   transform-origin: center 0.5px;
 }
