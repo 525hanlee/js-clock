@@ -24,11 +24,10 @@ html,body{
 .hour{
   height: 8px;
   width: 72px;
-  margin-top: -3px;
   position: absolute;
-  top: 49.2%;
+  top: 48.6%;
   left: 49.2%;
-  transform: rotate(0deg);
+  transform: rotate(90deg);
   background-size: 72px 8px;
   background-image: url(../img/hour-hand.svg);
   opacity: 0.5;
@@ -37,7 +36,6 @@ html,body{
 .min{
   height: 96px;
   width: 8px;
-  margin-top: -3px;
   position: absolute;
   bottom: 49.8%;
   transform: rotate(0deg);
@@ -48,9 +46,8 @@ html,body{
 .sec{
   height: 126px;
   width: 12px;
-  margin-top: -3px;
   position: absolute;
-  top: 49.9%;
+  top: 49.34%;
   transform: rotate(0deg);
   background-size: 100% 126px;
   background-image: url(../img/second-hand.svg);
