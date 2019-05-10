@@ -27,7 +27,7 @@ html,body{
   position: absolute;
   top: 48.6%;
   left: 49.2%;
-  transform: rotate(90deg);
+  transform: rotate(0deg);
   background-size: 72px 8px;
   background-image: url(../img/hour-hand.svg);
   opacity: 0.5;
